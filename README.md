@@ -21,7 +21,7 @@ EcoSearch is an innovative, environmentally conscious AI search engine that prio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ecosearch.git
+git clone https://github.com/sawood164/EcoSearch
 ```
 
 2. Open `index.html` in your web browser or deploy to your preferred hosting service.
